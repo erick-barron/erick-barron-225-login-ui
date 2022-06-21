@@ -58,7 +58,7 @@ form input:focus {
   border: none;
   background-color: #1390de;
   color: #ffffff;
-  padding: 20px 10px;
+  padding: 10px 10px;
   margin-top: 10px;
   border-radius: 30px;
   font-size: 18px;
@@ -66,6 +66,7 @@ form input:focus {
   cursor: pointer;
 }
 
-.btn-blue:hover, .btn-blue:active {
+.btn-blue:hover,
+.btn-blue:active {
   background-color: #249ae4;
 }
